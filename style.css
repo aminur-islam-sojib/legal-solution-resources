@@ -1,0 +1,7 @@
+.eb {
+    font-family: "EB Garamond", serif;
+}
+.container {
+    background-image: url(images/banner.png);
+    background-size: cover;
+}
